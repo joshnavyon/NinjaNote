@@ -1,0 +1,15 @@
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.csproj.AssemblyReference.cache
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.AssemblyInfoInputs.cache
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.AssemblyInfo.cs
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.csproj.CoreCompileInputs.cache
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/bin/Debug/net6.0/DigiNoteFinal
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/bin/Debug/net6.0/DigiNoteFinal.deps.json
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/bin/Debug/net6.0/DigiNoteFinal.runtimeconfig.json
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/bin/Debug/net6.0/DigiNoteFinal.dll
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/bin/Debug/net6.0/DigiNoteFinal.pdb
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.dll
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/refint/DigiNoteFinal.dll
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.pdb
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/DigiNoteFinal.genruntimeconfig.cache
+/Users/felixjoshua/Desktop/OOP Code/DigiNoteFinal/obj/Debug/net6.0/ref/DigiNoteFinal.dll
